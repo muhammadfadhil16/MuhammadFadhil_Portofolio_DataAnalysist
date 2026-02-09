@@ -4,7 +4,7 @@
 Proyek ini bertujuan untuk menganalisis data penjualan supermarket guna mengidentifikasi tren jam sibuk, performa cabang, dan preferensi pelanggan. Dashboard interaktif ini dibuat menggunakan Microsoft Excel untuk membantu manajer toko dalam pengambilan keputusan strategis.
 
 ## 📊 Dashboard Penjualan
-![Tampilan Dashboard](dashboard.png)
+![Tampilan Dashboard](Dashboard.png)
 *(Gambar di atas adalah screenshot hasil dashboard interaktif yang telah dibuat)*
 
 ## 🎯 Masalah Bisnis
