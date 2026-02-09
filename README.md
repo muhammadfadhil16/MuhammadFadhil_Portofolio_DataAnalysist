@@ -16,8 +16,8 @@ Manajemen ingin mengetahui:
 ## 💡 Temuan Utama (Key Insights)
 Berdasarkan analisis data, ditemukan bahwa:
 - **Jam Sibuk:** Puncak transaksi terjadi pada pukul **19.00**, sehingga disarankan menambah jumlah kasir pada jam tersebut.
-- **Produk Terlaris:** Kategori **[Sebutkan Produk Paling Atas di Grafik Anda]** memberikan kontribusi pendapatan terbesar.
-- **Performa Cabang:** Cabang **[Sebutkan Cabang Tertinggi]** memimpin dalam total penjualan.
+- **Produk Terlaris:** Kategori **Food and Beverages** memberikan kontribusi pendapatan terbesar.
+- **Performa Cabang:** Cabang **C** memimpin dalam total penjualan.
 
 ## 🛠️ Tools & Teknik yang Digunakan
 - **Microsoft Excel** (Data Cleaning, Pivot Table, Pivot Chart)
