@@ -18,16 +18,6 @@ Perusahaan E-Commerce memiliki ribuan data transaksi namun kesulitan untuk menja
 
 ---
 
-## 💡 Fitur Unggulan Dashboard
-Dashboard ini dirancang dengan prinsip *"Clean & Insightful"* dengan fitur berikut:
-
-* **📊 Visualisasi Profit/Loss:** Grafik batang dinamis dengan *Conditional Formatting* (Warna Merah otomatis muncul jika Profit negatif), memudahkan identifikasi kerugian secara instan.
-* **🎛️ Filter Interaktif (Slicers):** User dapat membedah data (drill-down) berdasarkan Wilayah, Kategori, dan Waktu tanpa perlu mengerti rumus Excel.
-* **🔄 Tombol Reset Otomatis (VBA):** Fitur kustom menggunakan Macro untuk membersihkan seluruh filter Slicer hanya dengan satu klik, mencegah kebingungan user saat melakukan eksplorasi data mendalam.
-* **📈 Analisis Tren:** Grafik garis untuk memantau fluktuasi penjualan bulanan (Seasonality).
-
----
-
 ## 🛠️ Proses Teknis & Tools
 Proyek ini dikerjakan 100% menggunakan **Microsoft Excel** dengan alur kerja sebagai berikut:
 
