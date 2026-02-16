@@ -55,13 +55,14 @@ Berdasarkan eksplorasi data menggunakan dashboard ini, ditemukan bahwa:
 ---
 
 ## 🚀 Cara Menjalankan File
-1.  Unduh file `E-Commerce_Dashboard.xlsm`.
+1.  Unduh file `Orders&Details_Dashboard_Analytics.xlsm`.
 2.  Buka file menggunakan Microsoft Excel (Windows/Mac).
 3.  **PENTING:** Klik **"Enable Macros"** atau **"Enable Content"** saat file dibuka agar tombol Reset berfungsi.
-4.  Gunakan Slicer di sebelah kiri untuk memfilter data.
-5.  Klik tombol **RESET** untuk kembali ke tampilan awal.
+4.  Buka halaman 'Dashboard'
+5.  Gunakan Slicer di sebelah kiri untuk memfilter data.
+6.  Klik tombol **RESET** untuk kembali ke tampilan awal.
 
 ---
 
-*Project ini dibuat sebagai bagian dari portofolio Data Analytics.*
+*Project ini dibuat sebagai bagian dari portofolio Data Analytics Saya.*
 **Tools:** Excel, Pivot Table, VBA, Data Visualization.
