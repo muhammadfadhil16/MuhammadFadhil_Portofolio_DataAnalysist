@@ -34,7 +34,7 @@ Berikut adalah alat dan kemampuan teknis yang saya gunakan dalam proyek-proyek i
 
 ## 📂 Featured Projects
 
-### 1. [E-Commerce Sales Dashboard (Excel + VBA)](./RetailStore Anaytic with Dashboard Interactive)
+### 1. [RetailStore Anaytic with Dashboard Interactive](./RetailStore%20Anaytic%20with%20Dashboard%20Interactive)
 > **Deskripsi:** Dashboard interaktif untuk menganalisis performa penjualan toko E-Commerce.
 > * **Masalah:** Mengidentifikasi kebocoran profit pada sub-kategori produk dan melihat tren musiman.
 > * **Solusi:** Dashboard satu halaman (*One-page Dashboard*) dengan fitur Slicer dan tombol Reset otomatis berbasis VBA.
