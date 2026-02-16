@@ -1,7 +1,7 @@
 # 🛒 E-Commerce Sales & Profitability Dashboard
 
 ![Dashboard Preview](RetailSales_Dashboard.png)
-*(Pastikan Anda mengupload screenshot dashboard Anda dan ganti nama file di atas)*
+*(Dashboard)*
 
 ## 📄 Ringkasan Proyek (Executive Summary)
 Proyek ini bertujuan untuk mengubah data transaksi mentah menjadi **Dashboard Interaktif** yang membantu tim manajemen memantau performa penjualan secara real-time.
