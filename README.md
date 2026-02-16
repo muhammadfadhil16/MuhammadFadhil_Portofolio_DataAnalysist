@@ -1,4 +1,4 @@
-# Hi there, I'm [Muhammad Fadhil]! 👋
+# Hi there, I'm Muhammad Fadhil! 👋
 ### Aspiring Data Analyst | Excel & Visualization Enthusiast
 
 Selamat datang di portofolio Data Analytics saya! 🚀
@@ -32,9 +32,9 @@ Berikut adalah alat dan kemampuan teknis yang saya gunakan dalam proyek-proyek i
 
 ---
 
-## 📂 Featured Projects (Proyek Unggulan)
+## 📂 Featured Projects
 
-### 1. [E-Commerce Sales Dashboard (Excel + VBA)](./RetailStore)
+### 1. [E-Commerce Sales Dashboard (Excel + VBA)](./RetailStore Anaytic with Dashboard Interactive)
 > **Deskripsi:** Dashboard interaktif untuk menganalisis performa penjualan toko E-Commerce.
 > * **Masalah:** Mengidentifikasi kebocoran profit pada sub-kategori produk dan melihat tren musiman.
 > * **Solusi:** Dashboard satu halaman (*One-page Dashboard*) dengan fitur Slicer dan tombol Reset otomatis berbasis VBA.
