@@ -3,7 +3,7 @@ E-Commerce Sales & Profitability Dashboard
 ![Dashboard Preview](RetailSales_Dashboard.png)
 *(Dashboard)*
 
-## 📄 Ringkasan Proyek (Executive Summary)
+## Ringkasan Proyek (Executive Summary)
 Proyek ini bertujuan untuk mengubah data transaksi mentah menjadi **Dashboard Interaktif** yang membantu tim manajemen memantau performa penjualan secara real-time.
 
 Fokus utama analisis ini adalah mengidentifikasi **"Profit Leaks"** (kebocoran profit) pada kategori produk tertentu dan melihat tren penjualan musiman untuk strategi stok barang di masa depan. Dashboard ini dilengkapi dengan fitur otomatisasi VBA untuk meningkatkan pengalaman pengguna (*User Experience*).
@@ -38,9 +38,9 @@ Proyek ini dikerjakan 100% menggunakan **Microsoft Excel** dengan alur kerja seb
 ## Key Insights
 Berdasarkan eksplorasi data menggunakan dashboard ini, ditemukan bahwa:
 
-* ⚠️ **Isu Profitabilitas:** Kategori *Furniture*, khususnya sub-kategori **Tables**, mengalami kerugian signifikan meskipun volume penjualannya tinggi. Disarankan untuk meninjau ulang biaya logistik atau harga jual.
-* 📅 **Tren Musiman:** Penjualan melonjak tajam pada bulan **November & Desember**, mengindikasikan tingginya permintaan saat periode liburan akhir tahun.
-* 📍 **Performa Wilayah:** Wilayah **California** dan **New York** adalah kontributor profit terbesar, sehingga marketing campaign harus difokuskan di area ini.
+* Isu Profitabilitas:** Kategori *Furniture*, khususnya sub-kategori **Tables**, mengalami kerugian signifikan meskipun volume penjualannya tinggi. Disarankan untuk meninjau ulang biaya logistik atau harga jual.
+* Tren Musiman:** Penjualan melonjak tajam pada bulan **November & Desember**, mengindikasikan tingginya permintaan saat periode liburan akhir tahun.
+* Performa Wilayah:** Wilayah **California** dan **New York** adalah kontributor profit terbesar, sehingga marketing campaign harus difokuskan di area ini.
 
 ---
 
