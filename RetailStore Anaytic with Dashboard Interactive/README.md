@@ -1,4 +1,4 @@
-# 🛒 E-Commerce Sales & Profitability Dashboard
+E-Commerce Sales & Profitability Dashboard
 
 ![Dashboard Preview](RetailSales_Dashboard.png)
 *(Dashboard)*
@@ -10,7 +10,7 @@ Fokus utama analisis ini adalah mengidentifikasi **"Profit Leaks"** (kebocoran p
 
 ---
 
-## 🎯 Tantangan Bisnis (Business Problem)
+## Tantangan Bisnis (Business Problem)
 Perusahaan E-Commerce memiliki ribuan data transaksi namun kesulitan untuk menjawab pertanyaan strategis dengan cepat:
 1.  **Profitabilitas:** Produk mana yang laku keras tapi justru merugikan perusahaan secara margin?
 2.  **Regional:** Wilayah (State) mana yang memberikan kontribusi profit terbesar?
@@ -18,7 +18,7 @@ Perusahaan E-Commerce memiliki ribuan data transaksi namun kesulitan untuk menja
 
 ---
 
-## 🛠️ Proses Teknis & Tools
+## Proses Teknis & Tools
 Proyek ini dikerjakan 100% menggunakan **Microsoft Excel** dengan alur kerja sebagai berikut:
 
 1.  **Data Preparation (ETL Sederhana):**
@@ -35,7 +35,7 @@ Proyek ini dikerjakan 100% menggunakan **Microsoft Excel** dengan alur kerja seb
 
 ---
 
-## 🔍 Temuan Utama (Key Insights)
+## Key Insights
 Berdasarkan eksplorasi data menggunakan dashboard ini, ditemukan bahwa:
 
 * ⚠️ **Isu Profitabilitas:** Kategori *Furniture*, khususnya sub-kategori **Tables**, mengalami kerugian signifikan meskipun volume penjualannya tinggi. Disarankan untuk meninjau ulang biaya logistik atau harga jual.
@@ -44,7 +44,7 @@ Berdasarkan eksplorasi data menggunakan dashboard ini, ditemukan bahwa:
 
 ---
 
-## 🚀 Cara Menjalankan File
+## Cara Menjalankan File
 1.  Unduh file `Orders&Details_Dashboard_Analytics.xlsm`.
 2.  Buka file menggunakan Microsoft Excel (Windows/Mac).
 3.  **PENTING:** Klik **"Enable Macros"** atau **"Enable Content"** saat file dibuka agar tombol Reset berfungsi.
